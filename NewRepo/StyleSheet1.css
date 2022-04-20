@@ -1,0 +1,83 @@
+﻿body {
+}
+.text {
+  color: blue;
+  font-size: 15px;
+}
+
+.border {
+  color: dimgrey;
+  border: 1px solid #dadce0;
+  border-radius: 7px;
+  padding: 20px;
+  width: 500px;
+  height: 70px;
+  position: relative;
+}
+
+.links {
+  font-size: 20px;
+  text-decoration: none;
+}
+.space {
+  max-height: 72px;
+  white-space: nowrap;
+  color: #1a0dab;
+  text-decoration: none;
+  text-align: left;
+  margin: 10px;
+}
+
+pre > a {
+  text-decoration: none;
+}
+
+.qw {
+  margin: 0;
+  padding: 0;
+}
+
+.qr > a {
+  margin-right: 10px;
+}
+
+.qr {
+  margin: -20px auto;
+  width: 300px;
+}
+
+.spa {
+  margin-bottom: 10px;
+  color: #555252;
+}
+
+.ST {
+  background-color: #f2f2f2;
+  color: #70757a;
+  padding: 40px;
+}
+.hr {
+  margin: 10px 0;
+  width: 350px;
+}
+.imgMargin {
+  margin: 0 auto;
+}
+.mar {
+  margin: 0;
+}
+.imgp {
+  position: page;
+  left: 225px;
+}
+.imga {
+  position: page;
+  left: 195px;
+}
+.psize {
+  font-size: 18px;
+}
+.asize {
+  font-size: 80%;
+  color: grey;
+}
